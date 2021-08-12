@@ -1,16 +1,16 @@
-### Hi there 👋
+### 💻 UI is like a joke. If you have to explain it, its not good📱
 
-<!--
-**massoudyan1/massoudyan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, my name is Daniel Massoudyan.  👋
+### Feel free to browse browse through my repos ✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently Studying on a full time job as a Studen Worker(Elev)
+
+- 🌱 I’m currently learning C#, Angular, Mongoose
+
+- 💬 I will strive to help you with programming and technology problems
+
+- 📫 Reach me on www.masoudyan.com , +4521305533 , massoudyan@hotmail.com , https://www.linkedin.com/in/daniel-massoudyan-b18315135/
+
+- 😄 Pronouns: Whatever You think is accurate using common sense 
+
