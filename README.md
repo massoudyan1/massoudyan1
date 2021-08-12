@@ -1,7 +1,9 @@
-## 💻 UI is like a joke. If you have to explain it, its not good📱
+### 💻 UI is like a joke. If you have to explain it, its not good📱
 
-#### Hi there, my name is Daniel Massoudyan.  👋
-## ✨✨ Feel free to browse browse through my repos ✨✨
+
+
+## Hi there, my name is Daniel Massoudyan.  👋
+### ✨✨ Feel free to browse browse through my repos ✨✨
 
 
 - 🔭 I’m currently Studying on a full time job as a Studen Worker(Elev)
