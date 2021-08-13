@@ -13,8 +13,7 @@
 
 - 📫 Reach me on www.masoudyan.com , +4521305533 , massoudyan@hotmail.com , https://www.linkedin.com/in/daniel-massoudyan-b18315135/
 
-- 😄 Pronouns: Whatever You think is accurate using common sense 
 
-### ✨✨ Feel free to browse browse through my repos ✨✨
+### ✨✨ Feel free to browse through my repos ✨✨
 
 
