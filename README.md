@@ -5,7 +5,7 @@
 ## Hi there, my name is Daniel Massoudyan.  👋
 
 
-- 🔭 I’m currently Studying on a full time job as a Studen Worker(Elev)
+- 🔭 I’m currently Studying on a full time job as a Student Worker(Elev)
 
 - 🌱 I’m currently learning C#, Angular, Mongoose
 
