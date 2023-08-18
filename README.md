@@ -1,5 +1,3 @@
-### 💻 UI is like a joke. If you have to explain it, its not good 📱
-
 ###
 
 ## Hi there, my name is Daniel Massoudyan.  👋
